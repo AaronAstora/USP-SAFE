@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195862763030",
+    "project_id": "usp-app-test",
+    "storage_bucket": "usp-app-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195862763030:android:6388f8ee7e73550f5f8737",
+        "android_client_info": {
+          "package_name": "com.example.usp_response_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195862763030-podq1gn6be4ij22s960mt3s53o3a9mr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkF7JNerHZlsRNvXxXFqbqjsMAPWGg9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195862763030-podq1gn6be4ij22s960mt3s53o3a9mr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
